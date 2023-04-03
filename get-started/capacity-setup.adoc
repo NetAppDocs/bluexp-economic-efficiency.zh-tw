@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, economic efficiency remediate, economic efficiency, capacity planning, set reminders for capacity 
+summary: 若要使用「經濟效益」服務、請執行幾個步驟來設定。 
+---
+= 設定經濟效益服務
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+若要使用「經濟效益」服務、請執行幾個步驟來設定。
+
+* 檢閱 link:../get-started/prerequisites.html["先決條件"] 確保您的環境已就緒。
+* 在藍圖XP中建立連接器。
+* 探索BlueXP中的叢集。
+
+
+您可以直接在BlueXP中建立連接器、稍後在「經濟效益」服務中使用該連接器。或者、您也可以在風險補救程序的中間建立Connector。
+
+同樣地、您也可以使用BlueXP或在風險補救程序期間預先探索叢集。
+
+
+
+== 在藍圖XP中建立連接器
+
+BlueXP Connector包含NetApp ONTAP 的認證資料。
+
+若要在使用服務之前在BlueXP中建立連接器、請參閱所述的藍圖XP文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"]。
+
+
+
+== 探索BlueXP中的叢集
+
+設定的一部分涉及識別BlueXP內的叢集名稱、IP、使用者名稱和密碼。
+
+如需使用服務前的指示、請參閱 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["探索內部部署ONTAP 的叢集"]。

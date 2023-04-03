@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: NetApp BlueXP經濟效益容量規劃服務使用AI來預測資料成長、以協助規劃流程。 
+---
+= 審查並修正容量問題
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+容量規劃包括識別環境中目前和預測的低容量區域。NetApp BlueXP經濟效益服務使用AI來預測資料成長、以協助規劃流程。「經濟效益」服務可識別您環境中的低容量領域、並針對解決問題的方法提供建議。
+
+使用「經濟效益」服務、您可以達成下列目標：
+
+* link:../use/capacity-review-status.html["檢閱容量規劃狀態"]
+* link:../use/capacity-add.html["新增容量"]
+* link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、並釋出儲存空間"]
+* link:../use/capacity-reminders.html["選取「無行動」、然後設定提醒以再次檢查"]
+

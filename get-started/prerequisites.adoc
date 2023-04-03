@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
+summary: 請驗證您的環境支援、網路存取、登入及網頁瀏覽器、以開始瞭解BlueXP經濟效益。 
+---
+= 經濟效益的先決條件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+請先確認您的作業環境、登入、網路存取和網頁瀏覽器是否就緒。
+
+若要使用「經濟效益」服務、您應該確保環境符合所有需求。
+
+* 您的環境必須符合所有的BlueXP要求、包括從網頁瀏覽器登入及網路存取。
++
+請參閱BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入門檢查清單"]。
+
+* 您必須擁有叢集的存取認證資料。
+* 雖然並非必要、但如果已安裝並啟用了BlueXP Connector、ONTAP 而且發現了這個系統、這項功能就很有幫助。如果沒有、服務會引導您完成這些程序。
+* 如果您計畫將冷資料分層至雲端儲存設備、請確定叢集符合授權資格。
+

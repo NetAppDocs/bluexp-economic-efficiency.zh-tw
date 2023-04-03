@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, economic efficiency frequently asked questions 
+summary: 「經濟效益」服務可識別目前或預測低容量的叢集、並針對資料分層或額外容量（AFF 適用於非系統）提供建議。 
+---
+= 新功能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+瞭解經濟效益服務的新功能。
+
+
+
+== 2023年4月2日
+
+全新的經濟效益服務可識別目前或預測低容量的叢集、並針對內部部署AFF 的更新系統提供資料分層或額外容量的建議。
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["深入瞭解這項新服務"]。

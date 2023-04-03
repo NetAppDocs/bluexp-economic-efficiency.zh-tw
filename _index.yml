@@ -1,0 +1,38 @@
+---
+indexpage:
+  lead: 容量規劃是避免系統容量過低而導致不必要停機的關鍵。NetApp BlueXP經濟效益服務可協助您識別出容量不足的叢集、檢閱叢集以取得目前和預測的容量、並檢閱CPU使用率、IOPS效能和延遲效能、以決定進行容量補救的機會。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 瞭解經濟效益服務
+      url: "/get-started/intro.html"
+    - title: 經濟效益服務的新功能
+      url: "/release-notes/whats-new.html"
+    - title: 快速入門
+      url: "/get-started/quick-start.html"
+    - title: 先決條件
+      url: "/get-started/prerequisites.html"
+    - title: 登入BlueXP上的服務
+      url: "/get-started/capacity-login.html"
+    - title: 常見問題集
+      url: "/get-started/faq.html"
+  - title: 使用經濟效益服務
+    links:
+    - title: 審查並修正容量問題
+      url: "/use/capacity-remediate-overview.html"
+    - title: 檢閱容量狀態
+      url: "/use/capacity-review-status.html"
+    - title: 新增容量
+      url: "/use/capacity-add.html"
+    - title: 將冷資料分層至雲端儲存設備
+      url: "/use/capacity-tier-data.html"
+    - title: 設定提醒以再次檢查
+      url: "/use/capacity-reminders.html"
+  - title: 部落格與社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: 雲端分層部落格
+      url: https://bluexp.netapp.com/blog/topic/cloud-tiering
+    - title: 雲端網路研討會
+      url: https://bluexp.netapp.com/events

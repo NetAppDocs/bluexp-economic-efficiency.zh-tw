@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning 
+summary: 請驗證您的環境支援、網路存取、登入及網頁瀏覽器、以開始瞭解BlueXP經濟效益。 
+---
+= 檢閱容量規劃狀態
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果您的叢集目前低於或預測低於70%容量的臨界值、經濟效益服務會將這些資源識別為低容量資源、並提醒您。此外、「經濟效益」服務也提供建議、說明您應將資料分層或取得額外容量。
+
+您可以檢閱下列類型的資料、以協助解決容量問題。
+
+* 平台
+* 資產所在國家/地區
+* 目前和預測的容量（依月份）
+* 容量使用率和百分比
+* 延遲趨勢
+* IOPS趨勢
+
+
+.步驟
+. 從BlueXP左側導覽中、選取*管理*>*經濟效益*>*容量規劃*。
+. 選擇*評估資產的儲存選項*。
+. 請選擇下列其中一個選項：
++
+** *新增容量*：繼續 link:../use/capacity-add.html["新增容量"]。
+** *分級Cold資料*：繼續 link:../use/capacity-tier-data.html["將冷資料分層存放至雲端儲存設備、並釋出儲存空間"]。
+** *不需採取行動*：繼續 link:../use/capacity-reminders.html["選取「不採取行動」、然後設定提醒以再次檢查"]。
+
+
+
