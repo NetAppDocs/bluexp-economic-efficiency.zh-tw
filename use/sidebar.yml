@@ -2,11 +2,11 @@
 section: use
 title: 使用經濟效益服務
 entries:
-- title: 審查並修正容量問題
+- title: 審查及修正容量問題
   url: "/use/capacity-remediate-overview.html"
 - title: 檢閱容量狀態
   url: "/use/capacity-review-status.html"
-- title: 新增容量
+- title: 增加容量
   url: "/use/capacity-add.html"
 - title: 將冷資料分層至雲端儲存設備
   url: "/use/capacity-tier-data.html"

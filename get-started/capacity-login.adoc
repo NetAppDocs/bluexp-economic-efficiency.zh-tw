@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: 使用BlueXP中的服務、開始使用經濟效益服務。 
+summary: 透過 BlueXP 中的服務、開始使用經濟效益服務。 
 ---
-= 在BlueXP上存取經濟效益服務
+= 存取 BlueXP 上的經濟效益服務
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,15 +12,15 @@ summary: 使用BlueXP中的服務、開始使用經濟效益服務。
 
 
 [role="lead"]
-您可以使用NetApp BlueXP登入經濟效益服務。
+您可以使用 NetApp BlueXP 登入經濟效益服務。
 
-若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"]。
+若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"^]。
 
 .步驟
-. 開啟網頁瀏覽器、前往 https://console.bluexp.netapp.com/["BlueXP主控台"]。
+. 開啟網頁瀏覽器、前往 https://console.bluexp.netapp.com/["BlueXP主控台"^]。
 +
-此時將顯示NetApp BlueXP登入頁面。
+出現 NetApp BlueXP 登入頁面。
 
-. 登入BlueXP。
-. 從BlueXP左側導覽中、選取*管理*>*經濟效益*。
+. 登入 BlueXP 。
+. 從 BlueXP 左側導航欄中，選擇 * Governance * > * Economic Effiiii* 。
 

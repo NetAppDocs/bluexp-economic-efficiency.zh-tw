@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/quick-start.html 
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
-summary: 只需幾個步驟、即可開始使用NetApp BlueXP經濟效益服務。 
+summary: 只需幾個步驟、即可開始使用 NetApp BlueXP 經濟效益服務。 
 ---
-= 經濟效益服務的快速入門
+= 快速入門：經濟效益服務
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,23 +12,23 @@ summary: 只需幾個步驟、即可開始使用NetApp BlueXP經濟效益服務�
 
 
 [role="lead"]
-以下是開始使用NetApp BlueXP經濟效益服務所需的步驟總覽。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。
+以下概述開始使用 NetApp BlueXP 經濟效益服務所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"] 檢閱先決條件
 [role="quick-margin-para"]
 link:../get-started/prerequisites.html["確保您的環境符合這些要求"^]。
 
-.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"] 設定經濟效益服務
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"] 設立經濟效益服務
 [role="quick-margin-para"]
 link:../get-started/capacity-setup.html["完成設定服務的步驟"^]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三"] 接下來呢？
 [role="quick-margin-para"]
-完成服務設定之後、接下來您可以做什麼。
+完成服務設定後、接下來您可以做些什麼。
 
 [role="quick-margin-list"]
 * link:../use/capacity-review-status.html["檢閱容量規劃狀態"^]。
-* link:../use/capacity-add.html["新增容量"^]。
-* link:../use/capacity-tier-data.html["將冷資料層級至雲端儲存設備、以釋放儲存空間"^]。
-* link:../use/capacity-reminders.html["或者、設定提醒以再次檢查"^]。
+* link:../use/capacity-add.html["增加容量"^]。
+* link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、以釋放儲存空間"^]。
+* link:../use/capacity-reminders.html["您也可以設定提醒以再次檢查"^]。
 
