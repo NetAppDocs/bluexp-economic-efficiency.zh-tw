@@ -1,6 +1,7 @@
 ---
 settings:
   name: Economic efficiency
+  platform: cloud
   internal:
     pdf_enabled: true
   prod:

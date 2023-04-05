@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning 
-summary: 開始使用 BlueXP 經濟效益、驗證您的環境、網路存取、登入和網頁瀏覽器的支援。 
+summary: '如果您的叢集目前低於或預測低於 70% 容量的臨界值、經濟效益服務會將這些叢集識別為低容量資源、並向您發出警示。' 
 ---
 = 檢閱容量規劃狀態
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: 開始使用 BlueXP 經濟效益、驗證您的環境、網路存取、
 
 
 [role="lead"]
-如果您的叢集目前低於或預測低於 70% 容量的臨界值、經濟效益服務會將這些叢集識別為低容量資源、並向您發出警示。此外、經濟效益服務也會提供建議、說明您是否應該分層儲存資料或取得額外容量。
+如果您的叢集目前低於或預測低於 70% 容量的臨界值、經濟效益服務會將這些叢集識別為低容量資源、並向您發出警示。此外、經濟效益服務也會針對您是否應該分層資料或取得額外容量提供建議。
 
 您可以檢閱下列資料類型、以協助解決容量問題。
 

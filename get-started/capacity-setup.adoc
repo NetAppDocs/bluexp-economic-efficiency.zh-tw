@@ -19,7 +19,7 @@ summary: 若要使用經濟效益服務、請執行幾個步驟來設定。
 * 探索 BlueXP 中的叢集。
 
 
-您可以直接在 BlueXP 中建立 Connector 、然後在「經濟效益」服務中使用該 Connector 。或者、您也可以在風險補救程序中建立 Connector 。
+您可以直接在 BlueXP 中建立 Connector 、稍後在經濟效益服務中使用該 Connector 。或者、您也可以在風險補救程序中建立 Connector 。
 
 同樣地、您也可以在使用 BlueXP 或風險補救程序期間、提前探索叢集。
 

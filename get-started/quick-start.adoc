@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/quick-start.html 
 keywords: how to get started with bluexp economic efficiency, economic efficiency quick start, capacity planning 
-summary: 只需幾個步驟、即可開始使用 NetApp BlueXP 經濟效益服務。 
+summary: 只需幾個步驟就能開始使用 NetApp BlueXP 經濟效益服務。 
 ---
-= 快速入門：經濟效益服務
+= 快速入門、提供經濟效益服務
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

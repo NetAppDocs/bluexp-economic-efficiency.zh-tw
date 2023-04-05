@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: get-started/prerequisites.html 
 keywords: what are bluexp economic efficiency requirements, economic efficiency prerequisites 
-summary: 開始使用 BlueXP 經濟效益、驗證您的環境、網路存取、登入和網頁瀏覽器的支援。 
+summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始體驗 BlueXP 的經濟效益。 
 ---
 = 經濟效益先決條件
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 開始使用 BlueXP 經濟效益、驗證您的環境、網路存取、
 [role="lead"]
 首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。
 
-若要使用「經濟效益」服務、您應確保您的環境符合所有需求。
+若要使用經濟效益服務、您應確保環境符合所有需求。
 
 * 您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。
 +

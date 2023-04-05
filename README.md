@@ -1,5 +1,5 @@
 # bluexp-economic-efficiency
-Welcome to the open-source documentation for the NetApp BlueXP Economic efficiency service.
+Welcome to the open-source documentation for the NetApp BlueXP economic efficiency service.
 
 We'd appreciate your help to ensure the accuracy and usefulness of this content. If you see an error or if you have a recommendation, either open an issue in the repo or make the changes yourself and submit a pull request. For more details about contributing, go to our Contributor's Guide.
 

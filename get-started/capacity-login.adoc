@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: get-started/capacity-login.html 
 keywords: bluexp login, capacity planning log in 
-summary: 透過 BlueXP 中的服務、開始使用經濟效益服務。 
+summary: 在 BlueXP 中存取服務、開始使用經濟效益服務。 
 ---
-= 存取 BlueXP 上的經濟效益服務
+= 存取 BlueXP 的經濟效益服務
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
