@@ -18,7 +18,7 @@ summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援�
 
 * 您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。
 +
-請參閱 BlueXP https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["入門檢查清單"^]。
+請參閱 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-quick-start-standard-mode.html["BlueXP 快速入門"^] 和 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-networking-saas-console.html["BlueXP 網路資訊"^]。
 
 * 您必須擁有叢集的存取認證。
 * 雖然不是必要的、但如果 BlueXP Connector 已就緒並已啟用、而且 ONTAP 系統已被發現、則會很有幫助。如果沒有、服務會引導您完成這些程序。
