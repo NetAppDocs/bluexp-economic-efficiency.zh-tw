@@ -1,23 +1,23 @@
 ---
 indexpage:
-  lead: 容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。NetApp BlueXP 經濟效益服務可協助您識別容量偏低的叢集、檢閱叢集的目前和預測容量、並檢閱
-    CPU 使用率、 IOPS 效能和延遲效能、以判斷容量補救的機會。
+  lead: 容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。BlueXP 經濟效益可協助您識別容量偏低的叢集、檢閱叢集的目前和預測容量、並檢閱 CPU
+    使用率、 IOPS 效能和延遲效能、以判斷容量補救的機會。
   tiles:
   - title: 開始使用
     links:
-    - title: 瞭解經濟效益服務
+    - title: 瞭解 BlueXP 經濟效益
       url: "/get-started/intro.html"
-    - title: 經濟效益服務的新功能
+    - title: BlueXP 經濟效益的新功能
       url: "/release-notes/whats-new.html"
     - title: 快速入門
       url: "/get-started/quick-start.html"
     - title: 先決條件
       url: "/get-started/prerequisites.html"
-    - title: 登入 BlueXP 上的服務
+    - title: 登入 BlueXP 經濟效益
       url: "/get-started/capacity-login.html"
     - title: 常見問題集
       url: "/get-started/faq.html"
-  - title: 使用經濟效益服務
+  - title: 使用 BlueXP 經濟效益
     links:
     - title: 審查及修正容量問題
       url: "/use/capacity-remediate-overview.html"

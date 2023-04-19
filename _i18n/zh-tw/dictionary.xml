@@ -27,12 +27,6 @@
   <block id="fbb1f938c9f1ccb40c31c54f15fc89ea" category="list-text">從 BlueXP 左側導航欄中，選擇 * Governance * &gt; * Economic EffiEffiEffii* &gt; * Capacity Planning * 。</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">選擇 * 評估資產的儲存選項 * 。</block>
   <block id="393020d67c4695c30e4112c74946b74b" category="list-text">選擇其中一個選項：</block>
-  <block id="7335b11b786b6697e0a94395a15a199e" category="inline-link-macro">增加容量</block>
-  <block id="6bfca54d4928d14a8eacc27f2b69ffaf" category="list-text">* 新增容量 * ：繼續 <block ref="c66ba59a324e8043bd3a8207394d4701" category="inline-link-macro-rx"></block>。</block>
-  <block id="8ba002b9312f94164aa11f2c3a1f58fb" category="inline-link-macro">將冷資料分層至雲端儲存設備、並釋放儲存空間</block>
-  <block id="bd9fba5131fe31e90bfebbe0a6d1fbc4" category="list-text">* 分層冷資料 * ：繼續 <block ref="9cc0dcfcd75c3218b5d225e3ae2afe53" category="inline-link-macro-rx"></block>。</block>
-  <block id="e9f46f0dabd9b0a7cb1c344012680279" category="inline-link-macro">選取「無動作」並設定提醒以再次檢查</block>
-  <block id="40bc28714e5ee6178cf9bc098160d023" category="list-text">* 不需採取任何行動 * ：繼續 <block ref="8a3dfb7bd904e33c9fbc3c16fc228e01" category="inline-link-macro-rx"></block>。</block>
   <block id="dbaae314ffc8b46919877d02b85696cb" category="doc">增加容量</block>
   <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">其中一項建議可能是將機櫃新增至現有序號、以增加容量。</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">您可以輕鬆地將建議提交給 NetApp 銷售團隊、以要求報價或申請替代選項。</block>
@@ -71,10 +65,7 @@
   <block id="fc76487e321b8bd0278a190f0b8bd401" category="list-text">選取 * 新增 Connector* 。</block>
   <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">選擇雲端供應商、然後選取 * 繼續 * 。</block>
   <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">選擇 * 繼續 * 或 * 跳至部署 * 。</block>
-  <block id="61e2d8f8a13d1a8a1a315cc91c04f53e" category="paragraph">在部署 Connector 之後、 BlueXP Cloud Tiering 接著會探索叢集（如果尚未發現）。</block>
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">在發現叢集之後、請設定分層。</block>
-  <block id="e8c45e24f90fcbcfaa33ff75b0bfe821" category="inline-link">雲端分層服務文件</block>
-  <block id="d97763a1946e823afaeeecfb5ddaec5d" category="paragraph">如需分層的詳細資訊、請參閱<block ref="281045bf39d451d51f0c3533bb2a2073" category="inline-link-rx"></block>。</block>
   <block id="8996677d91a175f8986c9fb086d0a019" category="summary">您不需要新增容量或層級冷資料、現在可以選擇不需要採取任何行動、並設定提醒、讓自己在 30 、 60 或 90 天之後再次檢查。</block>
   <block id="3244b6844658e5e33144f6b7eae011e7" category="doc">設定提醒以再次檢查</block>
   <block id="cdd7417e4a2578a1e8718f7130de6a7d" category="list-text">選擇 * 不需採取任何行動 * 。</block>
@@ -82,8 +73,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">選擇*保存*。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">經過這段時間之後、風險會再次出現在風險清單中。</block>
-  <block id="0a0860e9870b3d9fd1d712f2215ee3c8" category="doc">經濟效益服務</block>
-  <block id="4386eb2b71427fcf0dcb5cf90640a361" category="doc">經濟效益先決條件</block>
   <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您必須擁有叢集的存取認證。</block>
@@ -98,14 +87,12 @@
   <block id="60766643470eca71a0ef352b62e0a838" category="paragraph"><block ref="6ae54feb46cd36301fb1386a964f0be6" category="inline-link-macro-rx"></block>。</block>
   <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三</block>
   <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block> 接下來呢？</block>
-  <block id="19ceaf81f50456bdfe6fb1329956f3bc" category="paragraph">完成服務設定後、接下來您可以做些什麼。</block>
   <block id="ca8a749c1fbfddafb4179c330f1f70b6" category="list-text"><block ref="a331806f2b2936676e36463aed0c2570" category="inline-link-macro-rx"></block>。</block>
   <block id="4dda7928bb232067460dae014f5d3c19" category="list-text"><block ref="3cb1671078737d4ecd8aac6c0e87e9e1" category="inline-link-macro-rx"></block>。</block>
   <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">將冷資料分層至雲端儲存設備、以釋放儲存空間</block>
   <block id="37b482b6cc26ff8a32f155b4aebfe936" category="list-text"><block ref="c4c4008903c7bf31faac3cec39c9af2b" category="inline-link-macro-rx"></block>。</block>
   <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">您也可以設定提醒以再次檢查</block>
   <block id="a2e5f6092d9ac64bb72c17d7c802989e" category="list-text"><block ref="13cddad928a54274073f8e0ed02030a0" category="inline-link-macro-rx"></block>。</block>
-  <block id="be0b6ed69c50cea3a8eb8459821a798d" category="summary">容量規劃服務可識別目前或預測低容量的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">檢閱 CPU 使用率、 IOPS 效能和延遲效能、以判斷進行容量矯正的機會。</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">您可以在 * Governance * 類別下的 BlueXP 中存取此服務。</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">提供簡單的程序來取得額外容量</block>
@@ -125,7 +112,6 @@
   <block id="90663bb87b6bec4a92a7b1f0dc5b480d" category="list-text">檢閱 <block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> 確保您的環境已準備就緒。</block>
   <block id="1835d0517fe4ffa8b6a639fa95e369ad" category="list-text">在 BlueXP 中建立 Connector 。</block>
   <block id="e676f0c089390ef0b70aea9845c97efa" category="list-text">探索 BlueXP 中的叢集。</block>
-  <block id="01688a0e15dc71e56383e08c45b474a3" category="paragraph">同樣地、您也可以在使用 BlueXP 或風險補救程序期間、提前探索叢集。</block>
   <block id="ccaaa0b1fdb9afd84865d38039f74d41" category="section-title">在 BlueXP 中建立 Connector</block>
   <block id="0e13adbff2b342064a892a15607f1d16" category="paragraph">BlueXP Connector 包含 NetApp ONTAP 機器的認證。</block>
   <block id="d29bda09bea50f3d6b0e9d9d61015179" category="inline-link">如何建立連接器</block>
@@ -288,12 +274,9 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
   <block id="88c49608e723add593f5becc8bd9a968" category="section-title">2023 年 4 月 2 日</block>
-  <block id="7e0c2cf881384db7bfcfb883b67871a5" category="inline-link-macro">深入瞭解這項新服務</block>
-  <block id="38532dd1586dac78ea99ce1216e1f352" category="paragraph"><block ref="6e51c6b9ced37d3ad7414d5e4d1ac63a" category="inline-link-macro-rx"></block>。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入門</block>
   <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">先決條件</block>
-  <block id="1da54223aacfae99a4874c0e691e9686" category="sidebar">登入 BlueXP 上的服務</block>
   <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">常見問題集</block>
   <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="sidebar">檢閱容量狀態</block>
   <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">將冷資料分層至雲端儲存設備</block>
@@ -301,9 +284,7 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
   <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">雲端分層部落格</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
-  <block id="7d961289586c23e5fb903ed21636bcc8" category="sidebar">經濟效益文件</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
-  <block id="c6c64cb38e97edda8ffa90f94528ff44" category="sidebar">存取 BlueXP 上的服務</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -318,45 +299,64 @@
   <block id="fbd53e396987285cf235247a34844e9e" category="summary">如果您的叢集目前低於或預測低於 70% 容量的臨界值、經濟效益服務會將這些叢集識別為低容量資源、並向您發出警示。</block>
   <block id="a53148ee8712975fc57be46589bc8da7" category="summary">經濟效益服務會根據預測的資料成長、為 AFF 系統提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合容量成長預測的建議、最適合資產組態。</block>
   <block id="d171b7e73c5f2dfd5aa6af3cf856c062" category="summary">NetApp BlueXP 經濟效率容量規劃服務使用 AI 來預測資料成長、以協助規劃程序。</block>
-  <block id="41da446d1155100dfeb1aed1576bf390" category="paragraph">容量規劃包括找出環境中目前和預測的低容量區域。NetApp BlueXP 經濟效率服務使用 AI 來預測資料成長、以協助規劃流程。經濟效益服務可識別您環境中的低容量區域、並針對解決問題的方法提供建議。</block>
-  <block id="0a4a0858eb93014667524a512d567db2" category="paragraph">使用經濟效益服務、您可以達成下列目標：</block>
-  <block id="afb34d950bc4701e1ca377043626dd7f" category="summary">經濟效益服務會根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合預期容量成長的建議、最適合資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp Cloud Tiering 的連線。</block>
-  <block id="43a88d3acb500eacf8827be889290b78" category="paragraph">您可以從這裡將資料分層、輕鬆返回經濟效益服務、以便在其他系統上採取行動。</block>
-  <block id="17059fe74360229e879a759843201d70" category="paragraph">經濟效益服務會啟動與另一項 NetApp BlueXP 服務雲端分層服務的連線。</block>
-  <block id="8fea032899ecd07fc90802e814c217b4" category="summary">容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。NetApp BlueXP 經濟效益服務可協助您識別容量偏低的叢集、檢閱叢集的目前和預測容量、並檢閱 CPU 使用率、 IOPS 效能和延遲效能、以判斷容量補救的機會。</block>
-  <block id="ab64efe8ea6517b4d4f5995878949be8" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始體驗 BlueXP 的經濟效益。</block>
-  <block id="e15b5e0d1a3f0c5ba311a07635b7e217" category="paragraph">若要使用經濟效益服務、您應確保環境符合所有需求。</block>
   <block id="501089da83496a12da7846c949b29a52" category="summary">只需幾個步驟就能開始使用 NetApp BlueXP 經濟效益服務。</block>
-  <block id="f67a49063476dac82e6bea21e4339573" category="doc">快速入門、提供經濟效益服務</block>
-  <block id="b22b3b0df44e737562c6641ace27c49b" category="paragraph">以下概述開始使用 NetApp BlueXP 經濟效益服務所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
   <block id="aaa9c54233f5e7b76837549c4c1bbc28" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block> 設立經濟效益服務</block>
-  <block id="2d6fa3cc18d11dd7de03378659737f52" category="doc">瞭解經濟效益服務</block>
-  <block id="2ded2a84885e7c50040c1fe60311f4b3" category="paragraph">容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。NetApp BlueXP 經濟效益服務可協助您達成下列目標：</block>
-  <block id="b2b088cef491a4f1c797cf1b3e120387" category="paragraph">經濟效益服務僅適用於內部部署的 AFF 系統（包括統一化的 AFF 和所有 SAN 陣列系統）。</block>
-  <block id="942ba0f6ea6d830dd4fd89a3a73e6f67" category="section-title">經濟效益服務的效益</block>
-  <block id="54a0de45d377bd0d1d4a56763b979d36" category="paragraph">經濟效益服務可帶來下列效益：</block>
-  <block id="0df5c13966c618a22fbba4fb040d381a" category="doc">經濟效率服務的常見問題集</block>
-  <block id="88804581e6ce821aa2b70464105e11f8" category="section-title">獲得經濟效益服務</block>
   <block id="ab56773ec54d1f5da941c2a5911ab633" category="paragraph">* 什麼是 BlueXP 經濟效益網址？ *</block>
-  <block id="1dc7bcd22f2ba6af88f86d6438c4cfbf" category="paragraph">* 您是否需要使用經濟效益服務的授權？ *</block>
-  <block id="0219b3ff65cf0d583bb7e8912368a1a7" category="summary">在 BlueXP 中存取服務、開始使用經濟效益服務。</block>
-  <block id="6ff6f7363eac188c813717945e80f242" category="doc">存取 BlueXP 的經濟效益服務</block>
   <block id="e4ceda68ed2ad1c8b6de4d9499487b31" category="paragraph">您可以使用 NetApp BlueXP 登入經濟效益服務。</block>
-  <block id="0abe2c8bae7cad710a4ad886e3ee0d0a" category="summary">若要使用經濟效益服務、請執行幾個步驟來設定。</block>
-  <block id="3088e97bad860ce6779b76a124c78ae0" category="doc">設立經濟效益服務</block>
-  <block id="07089c4727f83059c9b5e357d73e88a2" category="paragraph">您可以直接在 BlueXP 中建立 Connector 、稍後在經濟效益服務中使用該 Connector 。或者、您也可以在風險補救程序中建立 Connector 。</block>
-  <block id="5e7b046dc9daacb3eb94996563205d67" category="paragraph">瞭解經濟效益服務的新功能。</block>
-  <block id="0d444fc1d4812b98559f9cc39f5fd31f" category="sidebar">經濟效益服務的新功能</block>
-  <block id="13a808531c1289bcc88bebc003bfcc72" category="sidebar">使用經濟效益服務</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="69b085a23d3ed85c84455b9288792bf2" category="inline-link">BlueXP 快速入門</block>
   <block id="45e7f38a8238b36c23e85bbe6436ba0b" category="inline-link">BlueXP 網路資訊</block>
   <block id="ab38a54ae4da8a4cab463c7bb64ef70a" category="paragraph">請參閱<block ref="4b1866f17dc6bd66f88d9d6839084df6" category="inline-link-rx"></block> 和<block ref="8b2e3c99c244ff11d22f3c561bd167b2" category="inline-link-rx"></block>。</block>
   <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">識別環境中容量不足的儲存資產。</block>
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">檢閱資產的目前和預測容量。</block>
-  <block id="f159f78afb33cd3b638e662d13fefec3" category="paragraph">經濟效益服務可識別目前或預測低容量的儲存資產、並針對資料分層或額外容量（適用於 AFF 系統）提供建議。如果您選擇新增容量、系統會將內含詳細建議的要求轉寄給您和 NetApp 代表。此申請包含讓容量選擇和訂單申請變得簡單所需的詳細資料。</block>
-  <block id="2e8c046d8aec606e517b6de07b22bf49" category="summary">經濟效益服務可識別目前或預測容量不足的資產、並針對資料分層或額外容量（適用於 AFF 系統）提供建議。</block>
-  <block id="b0d4aa7122dfc7ff627e44c134e7141e" category="paragraph">新的經濟效益服務可識別目前或預測容量不足的儲存資產、並針對內部部署 AFF 系統的資料分層或額外容量提供建議。</block>
-  <block id="5fc41c74d95e1bc5b0a12c9e265580be" category="paragraph">經濟效益服務會根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務提供的建議可滿足預期容量成長、最適合儲存資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp Cloud Tiering 的連線。</block>
-  <block id="c65db45c5a58142850a4dc71835badf6" category="paragraph">如果您環境中的儲存資產目前低於或預測低於 970 % 容量的臨界值、經濟效益服務會將這些資產識別為低容量資源、並向您發出警示。此外、經濟效益服務也會針對您是否應該分層資料或取得額外容量提供建議。</block>
+  <block id="eccbf2d005133654fdaff166311ce0c9" category="summary">容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。BlueXP 經濟效益可協助您識別容量偏低的叢集、檢閱叢集的目前和預測容量、並檢閱 CPU 使用率、 IOPS 效能和延遲效能、以判斷容量補救的機會。</block>
+  <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP 經濟效益</block>
+  <block id="7372cb38b352714605614895b4902bd6" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始使用 BlueXP 的經濟效益。</block>
+  <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 經濟效益先決條件</block>
+  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">若要使用 Blue 經濟效益、您應該確保環境符合所有需求。</block>
+  <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">從 BlueXP 中存取服務、開始瞭解 BlueXP 的經濟效益。</block>
+  <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">存取 BlueXP 經濟效益</block>
+  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
+  <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">瞭解 BlueXP 經濟效益</block>
+  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。BlueXP 經濟效益可協助您達成下列目標：</block>
+  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">BlueXP 經濟效益以目前或預測的低容量來識別儲存資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。如果您選擇新增容量、系統會將內含詳細建議的要求轉寄給您和 NetApp 代表。此申請包含讓容量選擇和訂單申請變得簡單所需的詳細資料。</block>
+  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">BlueXP 經濟效益僅適用於內部部署 AFF 系統（包括統一化 AFF 和所有 SAN 陣列系統）。</block>
+  <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">BlueXP 經濟效益的效益</block>
+  <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">BlueXP 經濟效益帶來下列效益：</block>
+  <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">若要使用 BlueXP 經濟效益、請執行幾個步驟來設定。</block>
+  <block id="3c3457659be71e581c1a88bdaf9cbdcd" category="doc">設定 BlueXP 經濟效益</block>
+  <block id="c76e8df73df2a4958416b2c5c7eb3432" category="paragraph">您可以直接在 BlueXP 中建立 Connector 、然後在 BlueXP 經濟效益中使用該 Connector 。或者、您也可以在容量修正程序的中間建立 Connector 。</block>
+  <block id="21f0b443c05de24878feaa5358224e29" category="paragraph">同樣地、您也可以在使用 BlueXP 或容量修復程序期間、提前探索叢集。</block>
+  <block id="f27ce016259562ba8cd33e55e719a92e" category="doc">讓 BlueXP 經濟效益快速起步</block>
+  <block id="c2b40c93f214d1f116185f61e51a626c" category="paragraph">以下概述開始使用 BlueXP 經濟效益所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
+  <block id="0d5e44db30a371573d3409dc5db80551" category="paragraph">設定服務之後、接下來您可以做些什麼。</block>
+  <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">BlueXP 經濟效益的常見問題集</block>
+  <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">獲得 BlueXP 經濟效益</block>
+  <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">* 您是否需要授權才能使用 BlueXP 經濟效益？ *</block>
+  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP 經濟效益可識別目前或預測容量不足的資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
+  <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">瞭解 BlueXP 經濟效益的新功能。</block>
+  <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">全新 BlueXP 經濟效益服務可識別目前或預測容量不足的儲存資產、並針對內部部署 AFF 系統的資料分層或額外容量提供建議。</block>
+  <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">深入瞭解 BlueXP 經濟效益</block>
+  <block id="838d01d8bf08e23ff670a400ad2cb368" category="paragraph"><block ref="c4b58b1c24fbcd13ec6df8ee9e6c3a23" category="inline-link-macro-rx"></block>。</block>
+  <block id="20d6f49b527c941ea400d33bec3ddfdc" category="paragraph">BlueXP 經濟效益根據預測的資料成長、為 AFF 系統提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合容量成長預測的建議、最適合資產組態。</block>
+  <block id="cee6750d0d4e5f1ebf12ff5962c2cc05" category="paragraph">容量規劃包括找出環境中目前和預測的低容量區域。BlueXP 經濟效益使用 AI 來預測資料成長、以協助規劃流程。經濟效益服務可識別您環境中的低容量區域、並針對解決問題的方法提供建議。</block>
+  <block id="15ff24e1dff620c1df51b9d6cb48a073" category="paragraph">使用 BlueXP 經濟效益、您可以達成下列目標：</block>
+  <block id="2b787d5a3ddc4d29ecaec24185257f94" category="summary">BlueXP 經濟效益服務根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合預期容量成長的建議、最適合資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp Cloud Tiering 的連線。</block>
+  <block id="ea29270a68ffb033810e16bff4b5fd66" category="paragraph">BlueXP 經濟效益根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務提供的建議可滿足預期容量成長、最適合儲存資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp BlueXP 分層（雲端分層）的連線。</block>
+  <block id="f43a34ab4337c16e506bc4b4470f2e5a" category="paragraph">您可以從這裡分層資料、輕鬆返回 BlueXP 經濟效益、以便在其他系統上採取行動。</block>
+  <block id="b77b8d53b8f9ad06ff4f1c4f66ce0810" category="paragraph">BlueXP 經濟效益啟動與 BlueXP 分層服務的連線。</block>
+  <block id="6fbd69f2466455027f39d7ed05855812" category="paragraph">部署 Connector 之後、 BlueXP 分層會探索叢集（如果尚未發現）。</block>
+  <block id="94cbb43a5cde5c6df8693b056bc08139" category="inline-link">BlueXP 分層文件</block>
+  <block id="5b4267b046db5f03341b553b4e3771d1" category="paragraph">如需分層的詳細資訊、請參閱<block ref="8eeb1fb0bf24f398f46bcf8e1cd7fe0b" category="inline-link-rx"></block>。</block>
+  <block id="b65cfef4d4fde75189a1e74b65a77ec0" category="paragraph">如果您環境中的儲存資產目前低於或預測低於 90% 容量的臨界值、經濟效益服務會將這些資產識別為低容量資源、並向您發出警示。此外、經濟效益服務也會針對您是否應該分層資料或取得額外容量提供建議。</block>
+  <block id="91c71bf1224b1e14a6c1f681b8177e35" category="inline-link-macro">增加容量</block>
+  <block id="d9883c7f55a9f89fbe625003d35013d9" category="list-text">* 新增容量 * ：繼續 <block ref="da789fd2f6c7c3e80b54e962404e89e8" category="inline-link-macro-rx"></block>。</block>
+  <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">將冷資料分層至雲端儲存設備、並釋放儲存空間</block>
+  <block id="47141754b699410733fa9410d0da24bd" category="list-text">* 分層冷資料 * ：繼續 <block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block>。</block>
+  <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">選取「無動作」並設定提醒以再次檢查</block>
+  <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">* 不需採取任何行動 * ：繼續 <block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block>。</block>
+  <block id="be927a0c7de9e9a4deadb896c66cc674" category="sidebar">BlueXP 經濟效益的新功能</block>
+  <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">登入 BlueXP 經濟效益</block>
+  <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">使用 BlueXP 經濟效益</block>
+  <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP 經濟效益文件</block>
 </blocks>

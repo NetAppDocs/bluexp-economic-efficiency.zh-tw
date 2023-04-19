@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
-keywords: economic efficiency faq, economic efficiency frequently asked questions 
-summary: 經濟效益服務可識別目前或預測容量不足的資產、並針對資料分層或額外容量（適用於 AFF 系統）提供建議。 
+keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
+summary: BlueXP 經濟效益可識別目前或預測容量不足的資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。 
 ---
 = 新功能
 :hardbreaks:
@@ -12,12 +12,12 @@ summary: 經濟效益服務可識別目前或預測容量不足的資產、並�
 
 
 [role="lead"]
-瞭解經濟效益服務的新功能。
+瞭解 BlueXP 經濟效益的新功能。
 
 
 
 == 2023 年 4 月 2 日
 
-新的經濟效益服務可識別目前或預測容量不足的儲存資產、並針對內部部署 AFF 系統的資料分層或額外容量提供建議。
+全新 BlueXP 經濟效益服務可識別目前或預測容量不足的儲存資產、並針對內部部署 AFF 系統的資料分層或額外容量提供建議。
 
-link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["深入瞭解這項新服務"]。
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["深入瞭解 BlueXP 經濟效益"]。
