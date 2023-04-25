@@ -313,7 +313,6 @@
   <block id="71bd4794c020a7645a4cfe74173f4058" category="doc">BlueXP 經濟效益</block>
   <block id="7372cb38b352714605614895b4902bd6" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始使用 BlueXP 的經濟效益。</block>
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 經濟效益先決條件</block>
-  <block id="2058bc2a64f08d83b90f6c8bacfeb33c" category="paragraph">若要使用 Blue 經濟效益、您應該確保環境符合所有需求。</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">從 BlueXP 中存取服務、開始瞭解 BlueXP 的經濟效益。</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">存取 BlueXP 經濟效益</block>
   <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
@@ -359,4 +358,5 @@
   <block id="d4a184baad527c4d76864b1bd61040ed" category="sidebar">登入 BlueXP 經濟效益</block>
   <block id="f65eafc37ceb7865c90318dc460588b6" category="sidebar">使用 BlueXP 經濟效益</block>
   <block id="a8cb12aeeba055d38bbada7b5b51b760" category="sidebar">BlueXP 經濟效益文件</block>
+  <block id="328ca69db7afb3bf526a93cf02e334f5" category="paragraph">若要使用 BlueXP 經濟效益、您應該確保您的環境符合所有需求。</block>
 </blocks>
