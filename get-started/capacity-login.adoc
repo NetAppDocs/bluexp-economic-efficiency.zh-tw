@@ -14,7 +14,7 @@ summary: 從 BlueXP 中存取服務、開始瞭解 BlueXP 的經濟效益。
 [role="lead"]
 您可以使用 NetApp BlueXP 登入經濟效益服務。
 
-若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"^]。
+若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["深入瞭解登入"^]。
 
 .步驟
 . 開啟網頁瀏覽器、前往 https://console.bluexp.netapp.com/["BlueXP主控台"^]。

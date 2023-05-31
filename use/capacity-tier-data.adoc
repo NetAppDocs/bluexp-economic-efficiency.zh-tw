@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-tier-data.html 
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity 
-summary: BlueXP 經濟效益服務根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合預期容量成長的建議、最適合資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp Cloud Tiering 的連線。 
+summary: BlueXP 經濟效益服務根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務會提出符合預期容量成長的建議、最適合資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與 BlueXP 分層的連線、這是另一項 BlueXP 服務。 
 ---
 = 將冷資料分層儲存至雲端儲存設備、並釋放儲存空間
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: BlueXP 經濟效益服務根據預測的資料成長提供建議。您�
 
 
 [role="lead"]
-BlueXP 經濟效益根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務提供的建議可滿足預期容量成長、最適合儲存資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp BlueXP 分層（雲端分層）的連線。
+BlueXP 經濟效益根據預測的資料成長提供建議。您可以接受預測或輸入自己的預測。基於此、本服務提供的建議可滿足預期容量成長、最適合儲存資產組態。其中一項建議可能是將冷資料分層至雲端儲存設備、以釋放容量。本建議會啟動與另一項 BlueXP 服務 NetApp BlueXP 分層的連線。
 
 您可以從這裡分層資料、輕鬆返回 BlueXP 經濟效益、以便在其他系統上採取行動。
 
@@ -29,8 +29,8 @@ BlueXP 經濟效益根據預測的資料成長提供建議。您可以接受預�
 . 選擇 * Tier Cold Data* 。
 . 接下來的步驟取決於您是否已部署 BlueXP Connector 、而且叢集已發現：
 +
-** 如果您需要部署 BlueXP Connector 、請參閱說明的 BlueXP 文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"^]。否則、如果您已部署 Connector 、則不會顯示部署 Connector 的選項。
-** 如果服務需要探索叢集、請參閱 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["探索內部部署ONTAP 的叢集"^]。否則、如果已探索到叢集、則不會顯示探索叢集的選項。
+** 如果您需要部署 BlueXP Connector 、請參閱說明的 BlueXP 文件 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何建立連接器"^]。否則、如果您已部署 Connector 、則不會顯示部署 Connector 的選項。
+** 如果服務需要探索叢集、請參閱 https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["探索內部部署ONTAP 的叢集"^]。否則、如果已探索到叢集、則不會顯示探索叢集的選項。
 
 
 +
@@ -44,6 +44,6 @@ BlueXP 經濟效益啟動與 BlueXP 分層服務的連線。
 
 . 在發現叢集之後、請設定分層。
 +
-如需分層的詳細資訊、請參閱 https://docs.netapp.com/us-en/cloud-manager-tiering/index.html["BlueXP 分層文件"^]。
+如需分層的詳細資訊、請參閱 https://docs.netapp.com/us-en/bluexp-tiering/index.html["BlueXP 分層文件"^]。
 
 

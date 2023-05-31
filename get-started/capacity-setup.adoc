@@ -29,7 +29,7 @@ summary: 若要使用 BlueXP 經濟效益、請執行幾個步驟來設定。
 
 BlueXP Connector 包含 NetApp ONTAP 機器的認證。
 
-若要在使用此服務之前在 BlueXP 中建立 Connector 、請參閱說明的 BlueXP 文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["如何建立連接器"^]。
+若要在使用此服務之前在 BlueXP 中建立 Connector 、請參閱說明的 BlueXP 文件 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["如何建立連接器"^]。
 
 
 
@@ -37,4 +37,4 @@ BlueXP Connector 包含 NetApp ONTAP 機器的認證。
 
 部分設定包括在 BlueXP 中識別叢集名稱、 IP 、使用者名稱和密碼。
 
-如需使用服務前的指示、請參閱 https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/task-discovering-ontap.html["探索內部部署ONTAP 的叢集"^]。
+如需使用服務前的指示、請參閱 https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["探索內部部署ONTAP 的叢集"^]。
