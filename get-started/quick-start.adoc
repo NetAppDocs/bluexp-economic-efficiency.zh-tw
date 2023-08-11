@@ -16,19 +16,19 @@ summary: 只需幾個步驟就能開始使用 NetApp BlueXP 經濟效益服務�
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一"] 檢閱先決條件
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["確保您的環境符合這些要求"^]。
+link:../get-started/prerequisites.html["確保您的環境符合這些要求"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["二"] 設立經濟效益服務
 [role="quick-margin-para"]
-link:../get-started/capacity-setup.html["完成設定服務的步驟"^]。
+link:../get-started/capacity-setup.html["完成設定服務的步驟"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["三"] 接下來呢？
 [role="quick-margin-para"]
 設定服務之後、接下來您可以做些什麼。
 
 [role="quick-margin-list"]
-* link:../use/capacity-review-status.html["檢閱容量規劃狀態"^]。
-* link:../use/capacity-add.html["增加容量"^]。
-* link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、以釋放儲存空間"^]。
-* link:../use/capacity-reminders.html["您也可以設定提醒以再次檢查"^]。
+* link:../use/capacity-review-status.html["檢閱容量規劃狀態"]。
+* link:../use/capacity-add.html["增加容量"]。
+* link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、以釋放儲存空間"]。
+* link:../use/capacity-reminders.html["您也可以設定提醒以再次檢查"]。
 
