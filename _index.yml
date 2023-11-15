@@ -19,6 +19,8 @@ indexpage:
       url: "/get-started/faq.html"
   - title: 使用 BlueXP 經濟效益
     links:
+    - title: 取得技術更新評估
+      url: "/use/tech-refresh.html"
     - title: 審查及修正容量問題
       url: "/use/capacity-remediate-overview.html"
     - title: 檢閱容量狀態

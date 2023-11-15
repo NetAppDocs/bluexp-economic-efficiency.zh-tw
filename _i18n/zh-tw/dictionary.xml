@@ -86,10 +86,8 @@
   <block id="3206da35a6da359e9140e8c4b0bc7c85" category="list-text">檢閱 CPU 使用率、 IOPS 效能和延遲效能、以判斷進行容量矯正的機會。</block>
   <block id="73392ce9486f187520554de1730eae2e" category="paragraph">您可以在 * Governance * 類別下的 BlueXP 中存取此服務。</block>
   <block id="6ebfa87b6f7144251026e89d7ce188ca" category="list-text">提供簡單的程序來取得額外容量</block>
-  <block id="c0990af989044900779cae7e6e736849" category="list-text">提供值得信賴的顧問和建議、以解決您環境中的容量問題</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">減少規劃額外儲存設備所需的時間</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
-  <block id="9c303ae8a4f6a61eadb0ef12c9577f18" category="paragraph">NetApp 不收取您使用服務的費用。如果您決定將冷資料分層至雲端儲存設備、則必須向雲端供應商查詢相關費用。</block>
   <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">如果您只是想要快速回答問題、這個常見問題集就能幫上忙。</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">授權</block>
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">不需要 NetApp 授權檔案（ NLF ）。</block>
@@ -222,7 +220,6 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
   <block id="e7719a97642051ee358e5d15cf1ab284" category="sidebar">雲端分層部落格</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
-  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
@@ -247,11 +244,7 @@
   <block id="ab5c19f216ae2b278b842bd3c6cdf7e2" category="doc">BlueXP 經濟效益先決條件</block>
   <block id="e029c7198e0a0d70e2816b726b7951f3" category="summary">從 BlueXP 中存取服務、開始瞭解 BlueXP 的經濟效益。</block>
   <block id="a367ed9be142be10a959a44919e5f2e2" category="doc">存取 BlueXP 經濟效益</block>
-  <block id="3f631ba896c1faab92fa6644538f2fdd" category="summary">BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
   <block id="df213f3ab79b8da9c8b1a9aa66a49358" category="doc">瞭解 BlueXP 經濟效益</block>
-  <block id="4174e7acaa0d2a79ceca6bdc82e5321c" category="paragraph">容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。BlueXP 經濟效益可協助您達成下列目標：</block>
-  <block id="a83631a3d8ab10baf32d9bd94cb9b5d3" category="paragraph">BlueXP 經濟效益以目前或預測的低容量來識別儲存資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。如果您選擇新增容量、系統會將內含詳細建議的要求轉寄給您和 NetApp 代表。此申請包含讓容量選擇和訂單申請變得簡單所需的詳細資料。</block>
-  <block id="606b72f9a7450d39e6e110c4edcdbd88" category="paragraph">BlueXP 經濟效益僅適用於內部部署 AFF 系統（包括統一化 AFF 和所有 SAN 陣列系統）。</block>
   <block id="6c4ccbebd2c1bc279ee2cb6f8f6b41f9" category="section-title">BlueXP 經濟效益的效益</block>
   <block id="fa994af86d0c0087b7eee14a622f20f6" category="paragraph">BlueXP 經濟效益帶來下列效益：</block>
   <block id="b7ec73ab5a17a83ab2fe26bc232073c2" category="summary">若要使用 BlueXP 經濟效益、請執行幾個步驟來設定。</block>
@@ -367,4 +360,55 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">取得雲端供應商檔案服務的支援</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
+  <block id="f0e817cb84a49a26db71d640356019f4" category="inline-link-macro">進行技術更新評估</block>
+  <block id="ac97b132749b374b068a120e488fcd0e" category="list-text"><block ref="858757337543e4b0b3edb61576007bac" category="inline-link-macro-rx"></block>。</block>
+  <block id="e5871941005696021ad600fa37da85f1" category="summary">BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。此服務也針對即將停產的系統、提供技術更新建議。</block>
+  <block id="04d4502244c1b78fc398e2ab854757d1" category="paragraph">BlueXP 經濟效益評估環境的兩個重要領域：目前或預測容量不足的儲存資產、以及即將停產的系統。此服務提供資料分層或額外容量（適用於 AFF 系統）的建議、以及符合您業務需求的技術更新選項。</block>
+  <block id="c5eed8523c59be7e7055502368d7c8c9" category="paragraph">BlueXP 經濟效益可協助您達成下列目標。</block>
+  <block id="9875b19dee665bb875b719b9e9ae8af9" category="paragraph">* 容量規劃 *</block>
+  <block id="a75c21b3028c89c7a9ba2ea318233515" category="list-text">取得與您環境相關的容量擴充建議。</block>
+  <block id="b4b8b4721f6971106929030c2ebeed9e" category="paragraph">BlueXP 經濟效益容量規劃僅適用於內部部署 AFF 系統（包括統一化 AFF 和所有 SAN 陣列系統）。</block>
+  <block id="72437c9f19c075990b00e9de0e1a44b8" category="paragraph">* 技術更新評估 *</block>
+  <block id="b8f192587f9fb6aabeab974d20b80bb3" category="list-text">檢閱接近生命週期結束或接近其他生命週期事件的系統清單。</block>
+  <block id="9d32ad95cd61231af88e0c366f0ded5f" category="list-text">檢閱目前工作環境的評估、並取得技術更新選項的建議、以滿足您的工作負載、容量、效能和預算需求。</block>
+  <block id="c75d78ac539015a339e4aa9720ca729e" category="inline-image-macro">BlueXP 經濟效益技術更新流程圖</block>
+  <block id="c814cc88c080268f66afab5af1deb9d4" category="paragraph"><block ref="c814cc88c080268f66afab5af1deb9d4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">識別即將發生生命週期事件的系統、協助您規劃技術更新</block>
+  <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">提供值得信賴的顧問建議、以解決您環境中的容量問題</block>
+  <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp 不收取您使用服務的費用。</block>
+  <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">如果您決定將冷資料分層至雲端儲存設備、則必須向雲端供應商查詢相關費用。</block>
+  <block id="a456de5363786e290113dc87be0d8c89" category="summary">如果您已備有現有資產、並想要評估是否建議技術更新、您可以使用 BlueXP 經濟效率技術更新選項。此程序會評估您目前的工作負載和資產、並針對如何繼續提供建議。</block>
+  <block id="d596892095124cd33de259bb9c6d8bdf" category="doc">取得技術更新評估</block>
+  <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">評估包括下列步驟：</block>
+  <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">選取您要評估的系統。</block>
+  <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">指定您的環境、工作負載類型、容量、效能和預算需求。</block>
+  <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">檢視有關可改善環境效能的適當產品和雲端服務的建議。</block>
+  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">系統會根據下列條件、被視為技術更新的候選系統：</block>
+  <block id="ecc292589422afcc5886b7e41ad68c72" category="list-text">即將終止技術支援合約</block>
+  <block id="af71bdeef415b1f9cee59f7f1b98cfef" category="list-text">即將結束的硬體生命週期</block>
+  <block id="251ce3e9a0f2e743c16cf6745026684a" category="list-text">從 BlueXP 左側導航欄中，選擇 * Governance * &gt; * Economic Effiii* &gt; * Tech refresh* 。</block>
+  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">技術更新頁面、顯示 Tech Refresh Candidates 索引標籤</block>
+  <block id="b19b7d4fec83433fb774ae9faa3d69f6" category="paragraph"><block ref="b19b7d4fec83433fb774ae9faa3d69f6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2a83e88bfd3a6df19edf7074fdf74aa8" category="list-text">查看 * Tech Refresh Candidates * 標籤、其中列出所有可能因技術更新而受益的工作環境。</block>
+  <block id="47215b09178bb5c93fdb16f794a46de0" category="list-text">選取您要取得評估的工作環境。</block>
+  <block id="43f608e701fb6e458b2c54b8218f2030" category="list-text">在右側、選取 * 評估重新整理 * 。</block>
+  <block id="eb543771e4455ef8aaf16ef1ec6b98c1" category="list-text">在評估更新選項中、選取 * 接受評估 * 。</block>
+  <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">選取您要執行評估的系統、然後選取 * 下一步 * 。</block>
+  <block id="c80e774876c4181d84849cf05a456feb" category="list-text">選取您想要的環境類型：公有雲、混合雲或內部部署。</block>
+  <block id="cd1d14c41390ca02836f8796ad882779" category="list-text">選擇您想要處理的所有工作負載類型：業務關鍵應用程式、資料湖和媒體工作流程、次要儲存設備、較不重要的工作負載、或高效能分析與運算。</block>
+  <block id="4f365c7c2e83cd4835500fe229245f49" category="list-text">在 TiB 中輸入容量需求、將滑桿滑到該值、或將游標放在滑桿中的值上、然後選取 * 下一步 * 。</block>
+  <block id="c405cc8fb6aeff71a00dc67a5c45e8bb" category="list-text">選取您想要處理的效能層面：最低延遲、最高 IOPS 、混合式工作負載或效能不重要、然後選取 * 下一步 * 。</block>
+  <block id="ad48853148bed59c232afb2557695a4a" category="list-text">以美元為單位輸入預算、將滑桿滑至值、或將游標放在滑桿的值上、然後選取 * 下一步 * 。</block>
+  <block id="27fc8e6d0827e3065fe50dd710023bf2" category="paragraph">針對您選擇的選項、會在不同的索引標籤中顯示一組建議。</block>
+  <block id="ee45c26f52faad8357038bfc28072aef" category="list-text">檢閱建議。</block>
+  <block id="3369d572efb7971966d65671e9a87c83" category="list-text">若要下載建議的 PDF 檔、請選取 * 下載 * 。</block>
+  <block id="c8f18e923447016bf04be2ef9ff734e6" category="list-text">若要與 NetApp 銷售代表聯繫、瞭解建議事項、請選取 * 聯絡銷售人員 * 。</block>
+  <block id="867f3f4db8b8a564320a00c8fe1f8bb8" category="paragraph">網頁會顯示您可以選擇的選項、以聯絡 NetApp 銷售代表。</block>
+  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">檢視已進行的技術更新評估</block>
+  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">您可能會想要檢閱您已進行的技術更新評估、然後再次檢閱建議。</block>
+  <block id="56a152189b75153e4f0f874e3d9c9457" category="list-text">選取 * Tech Refresh Candidates * 標籤、其中列出您進行技術更新評估的所有系統。然後、選取列上的 * 檢視行動 * 、即可查看該系統的評估與建議。</block>
+  <block id="f248060618ab5de89770d8ca2f297946" category="paragraph">或者、選取出現「採取行動」的列、然後選取 * 檢視 * 以查看該系統的詳細資料。</block>
+  <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">檢視重新整理建議。</block>
+  <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">2023 年 11 月 8 日</block>
+  <block id="c4cd570753ca79cf809d24d7723c0e82" category="paragraph">此版本的 BlueXP 經濟效益包括一個新選項、可評估您的資產、並識別是否建議更新技術。此服務包含左側導覽中的新 Tech Refresh 選項、您可以在其中評估目前工作負載和資產的新頁面、以及提供建議的報告。</block>
 </blocks>
