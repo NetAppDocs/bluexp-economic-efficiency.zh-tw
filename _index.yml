@@ -1,7 +1,10 @@
 ---
 indexpage:
-  lead: 容量規劃對於避免因系統容量不足而造成不必要的停機至關重要。BlueXP 經濟效益可協助您識別容量偏低的叢集、檢閱叢集的目前和預測容量、並檢閱 CPU
-    使用率、 IOPS 效能和延遲效能、以判斷容量補救的機會。
+  title: BlueXP 經濟效益文件
+  summary: BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。此服務也針對即將停產的系統、提供技術更新建議。
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life
+  lead: BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。此服務也針對即將停產的系統、提供技術更新建議。
   tiles:
   - title: 開始使用
     links:
