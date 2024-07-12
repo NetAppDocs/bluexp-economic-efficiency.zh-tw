@@ -69,7 +69,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">選擇*保存*。</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">結果</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">經過這段時間之後、風險會再次出現在風險清單中。</block>
-  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。</block>
   <block id="3bb4638459c9fa17eee7502169bd253e" category="list-text">您的環境必須符合所有 BlueXP 需求、包括從網路瀏覽器登入和網路存取。</block>
   <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">您必須擁有叢集的存取認證。</block>
   <block id="04346ae081b15c5b07fe9620a0a0fae7" category="list-text">雖然不是必要的、但如果 BlueXP Connector 已就緒並已啟用、而且 ONTAP 系統已被發現、則會很有幫助。如果沒有、服務會引導您完成這些程序。</block>
@@ -251,7 +250,6 @@
   <block id="2aac28c0e66ef23b3e92b337139061df" category="doc">BlueXP 經濟效益的常見問題集</block>
   <block id="722e45d4312069bddbd843c7cfde4d62" category="section-title">獲得 BlueXP 經濟效益</block>
   <block id="13d1effb4b36d6b3478f0737f984f459" category="paragraph">* 您是否需要授權才能使用 BlueXP 經濟效益？ *</block>
-  <block id="ae0e6a9591b0ba940ca472563fff152d" category="summary">BlueXP 經濟效益可識別目前或預測容量不足的資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。</block>
   <block id="c24b642feb1fabfe18bbee711c803f24" category="paragraph">瞭解 BlueXP 經濟效益的新功能。</block>
   <block id="35c28a4f1250fc5c59dd5bfa5d9993ce" category="paragraph">全新 BlueXP 經濟效益服務可識別目前或預測容量不足的儲存資產、並針對內部部署 AFF 系統的資料分層或額外容量提供建議。</block>
   <block id="345d0e0aeae5ae7cbf8cdd1fc138e5e6" category="inline-link-macro">深入瞭解 BlueXP 經濟效益</block>
@@ -475,4 +473,5 @@
   <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以透過 BlueXP 經濟效益（ * 治理 * &gt; * 經濟效率 * &gt; * 技術更新 * ）或透過 NetApp 數位顧問（ * 儀表板 * &gt; * 規劃小工具 * &gt; * 技術更新 * ）來存取此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP 經濟效益文件</block>
   <block id="3d8fb7c37ddf3912bdf3208d101382d5" category="sidebar">評估技術更新</block>
+  <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">首先、請確認您的營運環境、登入和網路存取是否準備就緒。</block>
 </blocks>

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, economic efficiency frequently asked questions 
-summary: BlueXP 經濟效益可識別目前或預測容量不足的資產、並提供資料分層或額外容量（適用於 AFF 系統）的建議。 
+summary: BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。此服務也針對即將停產的系統、提供技術更新建議。 
 ---
 = 新功能
 :hardbreaks:
