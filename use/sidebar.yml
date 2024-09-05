@@ -2,14 +2,10 @@
 section: use
 title: 使用 BlueXP 經濟效益
 entries:
-- title: 評估技術更新
-  url: "/use/tech-refresh.html"
 - title: 審查及修正容量問題
   url: "/use/capacity-remediate-overview.html"
 - title: 檢閱容量狀態
   url: "/use/capacity-review-status.html"
-- title: 增加容量
-  url: "/use/capacity-add.html"
 - title: 將冷資料分層至雲端儲存設備
   url: "/use/capacity-tier-data.html"
 - title: 設定提醒以再次檢查

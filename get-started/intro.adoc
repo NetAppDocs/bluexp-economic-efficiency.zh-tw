@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: get-started/intro.html 
-keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage 
-summary: BlueXP 經濟效益服務可識別目前或預測容量不足的叢集、並提供資料分層或額外容量（適用於 AFF 系統）的建議。此服務也針對即將停產的系統、提供技術更新建議。 
+keywords: how bluexp economic efficiency works, what is economic efficiency, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast 
+summary: BlueXP  經濟效益服務可識別容量目前或預測不足的叢集、並提供資料分層的建議。 
 ---
 = 瞭解 BlueXP 經濟效益
 :hardbreaks:
@@ -12,7 +12,7 @@ summary: BlueXP 經濟效益服務可識別目前或預測容量不足的叢集�
 
 
 [role="lead"]
-BlueXP 經濟效益評估環境的兩個重要領域：目前或預測容量不足的儲存資產、以及即將停產的系統。此服務提供資料分層或額外容量（適用於 AFF 系統）的建議、以及符合您業務需求的技術更新選項。
+BlueXP  經濟效益會以目前或預測的低容量來評估您的儲存資產。本服務針對符合您業務需求的資料分層選項提供建議。
 
 BlueXP 經濟效益可協助您達成下列目標。
 
@@ -20,20 +20,6 @@ BlueXP 經濟效益可協助您達成下列目標。
 
 * 識別環境中容量不足的儲存資產。
 * 檢閱資產的目前和預測容量。
-* 檢閱 CPU 使用率、 IOPS 效能和延遲效能、以判斷進行容量矯正的機會。
-* 取得與您環境相關的容量擴充建議。
-
-
-BlueXP 經濟效益容量規劃僅適用於內部部署 AFF 系統（包括統一化 AFF 和所有 SAN 陣列系統）。
-
-* 技術更新評估與模擬 *
-
-* 在新硬體上執行工作負載模擬、然後下載結果。
-* 檢閱接近生命週期結束或接近其他生命週期事件的系統清單。
-* 檢閱目前工作環境的評估、並取得技術更新選項的建議、以滿足您的工作負載、容量、效能和預算需求。
-+
-image:economic-efficiency-diagram-overview2.png["BlueXP 經濟效益技術更新流程圖"]
-
 
 
 
@@ -42,8 +28,7 @@ image:economic-efficiency-diagram-overview2.png["BlueXP 經濟效益技術更新
 
 BlueXP 經濟效益帶來下列效益：
 
-* 識別即將發生生命週期事件的系統、協助您規劃技術更新、方法是進行簡短評估、或是在新硬體上執行工作負載模擬
-* 提供簡單的程序來取得額外容量
+* 識別即將發生生命週期事件的系統、協助您規劃技術更新
 * 提供值得信賴的顧問建議、以解決您環境中的容量問題
 * 減少規劃額外儲存設備所需的時間
 

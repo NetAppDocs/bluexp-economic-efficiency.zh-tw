@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
-keywords: economic efficiency remediate, economic efficiency, capacity planning 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, forecast, capacity, storage, 
 summary: '如果您的叢集目前低於或預測低於 70% 容量的臨界值、經濟效益服務會將這些叢集識別為低容量資源、並向您發出警示。' 
 ---
 = 檢閱容量規劃狀態
@@ -12,16 +12,13 @@ summary: '如果您的叢集目前低於或預測低於 70% 容量的臨界值�
 
 
 [role="lead"]
-如果您環境中的儲存資產目前低於或預測低於 90% 容量的臨界值、經濟效益服務會將這些資產識別為低容量資源、並向您發出警示。此外、經濟效益服務也會針對您是否應該分層資料或取得額外容量提供建議。
+如果您環境中的儲存資產目前低於或預測低於 90 % 容量的臨界值、經濟效益服務會將這些資產識別為低容量資源、並向您發出警示。此外、經濟效益服務也會針對您是否應該分層資料提供建議。
 
 您可以檢閱下列資料類型、以協助解決容量問題。
 
 * 平台
 * 資產所在國家 / 地區
 * 依月份顯示目前和預測容量
-* 容量使用率和百分比
-* 延遲趨勢
-* IOPS 趨勢
 
 
 .步驟
@@ -29,7 +26,7 @@ summary: '如果您的叢集目前低於或預測低於 70% 容量的臨界值�
 . 選擇 * 評估資產的儲存選項 * 。
 . 選擇其中一個選項：
 +
-** * 新增容量 * ：繼續 link:../use/capacity-add.html["增加容量"]。
+** * 最佳實務做法 * ：按一下連結以檢視最佳實務做法。
 ** * 分層冷資料 * ：繼續 link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、並釋放儲存空間"]。
 ** * 不需採取任何行動 * ：繼續 link:../use/capacity-reminders.html["選取「無動作」並設定提醒以再次檢查"]。
 

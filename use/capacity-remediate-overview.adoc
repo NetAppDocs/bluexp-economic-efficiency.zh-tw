@@ -12,12 +12,11 @@ summary: NetApp BlueXP 經濟效率容量規劃服務使用 AI 來預測資料�
 
 
 [role="lead"]
-容量規劃包括找出環境中目前和預測的低容量區域。BlueXP 經濟效益使用 AI 來預測資料成長、以協助規劃流程。經濟效益服務可識別您環境中的低容量區域、並針對解決問題的方法提供建議。
+容量規劃包括找出環境中目前和預測的低容量區域。BlueXP 經濟效益使用 AI 來預測資料成長、以協助規劃流程。經濟效益服務可識別您環境中的低容量區域。
 
 使用 BlueXP 經濟效益、您可以達成下列目標：
 
 * link:../use/capacity-review-status.html["檢閱容量規劃狀態"]
-* link:../use/capacity-add.html["增加容量"]
 * link:../use/capacity-tier-data.html["將冷資料分層儲存至雲端儲存設備、並釋放儲存空間"]
 * link:../use/capacity-reminders.html["選取「無動作」並設定提醒以再次檢查"]
 

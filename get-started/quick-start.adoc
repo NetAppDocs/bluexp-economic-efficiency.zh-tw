@@ -27,9 +27,7 @@ link:../get-started/capacity-setup.html["完成設定服務的步驟"]。
 設定服務之後、接下來您可以做些什麼。
 
 [role="quick-margin-list"]
-* link:../use/tech-refresh.html["進行技術更新評估、或在新硬體上模擬您的工作負載"]。
 * link:../use/capacity-review-status.html["檢閱容量規劃狀態"]。
-* link:../use/capacity-add.html["增加容量"]。
 * link:../use/capacity-tier-data.html["將冷資料分層至雲端儲存設備、以釋放儲存空間"]。
 * link:../use/capacity-reminders.html["您也可以設定提醒以再次檢查"]。
 
