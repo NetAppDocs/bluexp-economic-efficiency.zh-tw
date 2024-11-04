@@ -435,7 +435,6 @@
   <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">您也可以新增工作負載、並從模擬中排除現有的工作負載。</block>
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">以前、您只能評估資產、並確定是否建議進行技術更新。</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">這項功能現在已納入左側導覽中的技術更新選項。</block>
-  <block id="914b4ad9ada7977f36d427a9664a4235" category="paragraph">深入瞭解 <block ref="4305c0855ed1712385868c1ca4414cc5" category="inline-link-macro-rx"></block>。</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">存取</block>
   <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以透過 BlueXP 經濟效益（ * 治理 * &gt; * 經濟效率 * &gt; * 技術更新 * ）或透過 NetApp 數位顧問（ * 儀表板 * &gt; * 規劃小工具 * &gt; * 技術更新 * ）來存取此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP 經濟效益文件</block>
@@ -459,4 +458,8 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">若要為 Cloud Volumes ONTAP 啟用下列關鍵工作流程、必須將 NetApp 支援網站認證與您的 BlueXP  組織建立關聯：</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">將 NSS 認證與您的 BlueXP  組織建立關聯、不同於與 BlueXP  使用者登入相關聯的 NSS 帳戶。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">這些 NSS 認證會與您的特定 BlueXP  組織 ID 相關聯。屬於 BlueXP  組織的使用者可從 * 支援 &gt; NSS 管理 * 存取這些認證。</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">技術更新選項</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">深入瞭解<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>。</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">停用的功能</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">介紹 BlueXP  經濟效益</block>
 </blocks>
