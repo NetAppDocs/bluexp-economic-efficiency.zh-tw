@@ -337,7 +337,6 @@
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">提供值得信賴的顧問建議、以解決您環境中的容量問題</block>
   <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp 不收取您使用服務的費用。</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">如果您決定將冷資料分層至雲端儲存設備、則必須向雲端供應商查詢相關費用。</block>
-  <block id="d596892095124cd33de259bb9c6d8bdf" category="doc">取得技術更新評估</block>
   <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">評估包括下列步驟：</block>
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">選取您要評估的系統。</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">指定您的環境、工作負載類型、容量、效能和預算需求。</block>
@@ -364,7 +363,6 @@
   <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
   <block id="86602ed92a03b859038bb7756a757229" category="list-text">技術支援合約即將結束</block>
   <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">硬體生命週期即將結束</block>
-  <block id="e58668930cccc759b3f2b6fda381ee68" category="admonition">您可以透過 BlueXP 經濟效益或透過 NetApp 數位顧問來存取此功能。</block>
   <block id="9a99f963e31049c789d353216d6aa4ce" category="section-title">進行更新評估</block>
   <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">顯示 Tech Refresh 應徵者的技術更新頁面</block>
   <block id="1e7afb39626c91b21e07933d8a4a6e4e" category="paragraph"><block ref="1e7afb39626c91b21e07933d8a4a6e4e" category="inline-image-macro-rx" type="image"></block></block>
@@ -436,7 +434,6 @@
   <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">以前、您只能評估資產、並確定是否建議進行技術更新。</block>
   <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">這項功能現在已納入左側導覽中的技術更新選項。</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">存取</block>
-  <block id="9087f29454392d1114832868ba710775" category="paragraph">您可以透過 BlueXP 經濟效益（ * 治理 * &gt; * 經濟效率 * &gt; * 技術更新 * ）或透過 NetApp 數位顧問（ * 儀表板 * &gt; * 規劃小工具 * &gt; * 技術更新 * ）來存取此功能。</block>
   <block id="72bf780976830d013719cb205b31d39b" category="sidebar">BlueXP 經濟效益文件</block>
   <block id="7a2298e2cd5eafe22539462b05dbe38c" category="paragraph">首先、請確認您的營運環境、登入和網路存取是否準備就緒。</block>
   <block id="f5b4f15fd06d9943704f9df6285311a4" category="summary">BlueXP  經濟效益服務可識別容量目前或預測不足的叢集、並提供資料分層的建議。</block>
@@ -462,4 +459,7 @@
   <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">深入瞭解<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block>。</block>
   <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">停用的功能</block>
   <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">介紹 BlueXP  經濟效益</block>
+  <block id="4bbb2f15b34a48cb540540470628dc4e" category="admonition">您可以透過 BlueXP  經濟效益（ * 治理 * &gt; * 經濟效率 * &gt; * 技術更新 * ）或數位顧問（ * 儀表板 * &gt; * 規劃 Widget * &gt; * 技術更新 * ）來存取此功能。</block>
+  <block id="ba47e82034d48d2aa12b2d0ed24e79b7" category="paragraph">您可以透過 BlueXP  經濟效益（ * 治理 * &gt; * 經濟效率 * &gt; * 技術更新 * ）或 Active IQ 數位顧問（也稱為數位顧問）（ * 儀表板 * &gt; * 規劃 Widget * &gt; * 技術更新 * ）來存取此功能。</block>
+  <block id="5602c3047fb07ae3a805be4c08a43515" category="admonition">您可以透過 BlueXP  經濟效益或數位顧問來存取此功能。</block>
 </blocks>
